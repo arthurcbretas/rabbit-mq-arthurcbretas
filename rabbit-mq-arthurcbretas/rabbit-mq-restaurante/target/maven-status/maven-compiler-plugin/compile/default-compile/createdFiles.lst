@@ -1,0 +1,3 @@
+br\arthurcbretas\config\RabbitMQConfig.class
+br\arthurcbretas\consumer\Consumer.class
+br\arthurcbretas\producer\Producer.class
